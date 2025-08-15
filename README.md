@@ -62,6 +62,7 @@ python main.py
  ├── cookies.json     # Cookies do Facebook (NÃO compartilhar)
  ├── loading.py 
  ├── mensagem.txt
+ ├── config.json
  ├── nomes.txt (vai funcionar no proximo commit
  ├── logs/grupo.log(oque ta acontecendo terminal)
  ├── venv/            # Ambiente virtual

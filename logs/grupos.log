@@ -1,0 +1,1791 @@
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442'} | Message: session not created: cannot connect to chrome at 127.0.0.1:53259
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x56539d16005a <unknown>
+#1 0x56539cbffa70 <unknown>
+#2 0x56539cc408f7 <unknown>
+#3 0x56539cc3f7e5 <unknown>
+#4 0x56539cc34e59 <unknown>
+#5 0x56539cc8593e <unknown>
+#6 0x56539cc84f06 <unknown>
+#7 0x56539cc771b3 <unknown>
+#8 0x56539cc4359b <unknown>
+#9 0x56539cc44971 <unknown>
+#10 0x56539d12522b <unknown>
+#11 0x56539d128f79 <unknown>
+#12 0x56539d10c309 <unknown>
+#13 0x56539d129b28 <unknown>
+#14 0x56539d0f0bef <unknown>
+#15 0x56539d14d0e8 <unknown>
+#16 0x56539d14d2c6 <unknown>
+#17 0x56539d15f036 <unknown>
+#18 0x7f59e8c969cb <unknown>
+#19 0x7f59e8d1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105'} | Message: session not created: cannot connect to chrome at 127.0.0.1:38971
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x56413fad005a <unknown>
+#1 0x56413f56fa70 <unknown>
+#2 0x56413f5b08f7 <unknown>
+#3 0x56413f5af7e5 <unknown>
+#4 0x56413f5a4e59 <unknown>
+#5 0x56413f5f593e <unknown>
+#6 0x56413f5f4f06 <unknown>
+#7 0x56413f5e71b3 <unknown>
+#8 0x56413f5b359b <unknown>
+#9 0x56413f5b4971 <unknown>
+#10 0x56413fa9522b <unknown>
+#11 0x56413fa98f79 <unknown>
+#12 0x56413fa7c309 <unknown>
+#13 0x56413fa99b28 <unknown>
+#14 0x56413fa60bef <unknown>
+#15 0x56413fabd0e8 <unknown>
+#16 0x56413fabd2c6 <unknown>
+#17 0x56413facf036 <unknown>
+#18 0x7fb7e4a969cb <unknown>
+#19 0x7fb7e4b1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442'} | Message: session not created: cannot connect to chrome at 127.0.0.1:36535
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x560f81c6d05a <unknown>
+#1 0x560f8170ca70 <unknown>
+#2 0x560f8174d8f7 <unknown>
+#3 0x560f8174c7e5 <unknown>
+#4 0x560f81741e59 <unknown>
+#5 0x560f8179293e <unknown>
+#6 0x560f81791f06 <unknown>
+#7 0x560f817841b3 <unknown>
+#8 0x560f8175059b <unknown>
+#9 0x560f81751971 <unknown>
+#10 0x560f81c3222b <unknown>
+#11 0x560f81c35f79 <unknown>
+#12 0x560f81c19309 <unknown>
+#13 0x560f81c36b28 <unknown>
+#14 0x560f81bfdbef <unknown>
+#15 0x560f81c5a0e8 <unknown>
+#16 0x560f81c5a2c6 <unknown>
+#17 0x560f81c6c036 <unknown>
+#18 0x7f9a7f6969cb <unknown>
+#19 0x7f9a7f71aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105'} | Message: session not created: cannot connect to chrome at 127.0.0.1:44455
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55667ac2d05a <unknown>
+#1 0x55667a6cca70 <unknown>
+#2 0x55667a70d8f7 <unknown>
+#3 0x55667a70c7e5 <unknown>
+#4 0x55667a701e59 <unknown>
+#5 0x55667a75293e <unknown>
+#6 0x55667a751f06 <unknown>
+#7 0x55667a7441b3 <unknown>
+#8 0x55667a71059b <unknown>
+#9 0x55667a711971 <unknown>
+#10 0x55667abf222b <unknown>
+#11 0x55667abf5f79 <unknown>
+#12 0x55667abd9309 <unknown>
+#13 0x55667abf6b28 <unknown>
+#14 0x55667abbdbef <unknown>
+#15 0x55667ac1a0e8 <unknown>
+#16 0x55667ac1a2c6 <unknown>
+#17 0x55667ac2c036 <unknown>
+#18 0x7f0cbec969cb <unknown>
+#19 0x7f0cbed1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442'} | Message: session not created: cannot connect to chrome at 127.0.0.1:47823
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55ffa170e05a <unknown>
+#1 0x55ffa11ada70 <unknown>
+#2 0x55ffa11ee8f7 <unknown>
+#3 0x55ffa11ed7e5 <unknown>
+#4 0x55ffa11e2e59 <unknown>
+#5 0x55ffa123393e <unknown>
+#6 0x55ffa1232f06 <unknown>
+#7 0x55ffa12251b3 <unknown>
+#8 0x55ffa11f159b <unknown>
+#9 0x55ffa11f2971 <unknown>
+#10 0x55ffa16d322b <unknown>
+#11 0x55ffa16d6f79 <unknown>
+#12 0x55ffa16ba309 <unknown>
+#13 0x55ffa16d7b28 <unknown>
+#14 0x55ffa169ebef <unknown>
+#15 0x55ffa16fb0e8 <unknown>
+#16 0x55ffa16fb2c6 <unknown>
+#17 0x55ffa170d036 <unknown>
+#18 0x7fd71e4969cb <unknown>
+#19 0x7fd71e51aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105'} | Message: session not created: cannot connect to chrome at 127.0.0.1:51731
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x557d9c12605a <unknown>
+#1 0x557d9bbc5a70 <unknown>
+#2 0x557d9bc068f7 <unknown>
+#3 0x557d9bc057e5 <unknown>
+#4 0x557d9bbfae59 <unknown>
+#5 0x557d9bc4b93e <unknown>
+#6 0x557d9bc4af06 <unknown>
+#7 0x557d9bc3d1b3 <unknown>
+#8 0x557d9bc0959b <unknown>
+#9 0x557d9bc0a971 <unknown>
+#10 0x557d9c0eb22b <unknown>
+#11 0x557d9c0eef79 <unknown>
+#12 0x557d9c0d2309 <unknown>
+#13 0x557d9c0efb28 <unknown>
+#14 0x557d9c0b6bef <unknown>
+#15 0x557d9c1130e8 <unknown>
+#16 0x557d9c1132c6 <unknown>
+#17 0x557d9c125036 <unknown>
+#18 0x7faf1b6969cb <unknown>
+#19 0x7faf1b71aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442'} | Message: session not created: cannot connect to chrome at 127.0.0.1:40045
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55ae89c4a05a <unknown>
+#1 0x55ae896e9a70 <unknown>
+#2 0x55ae8972a8f7 <unknown>
+#3 0x55ae897297e5 <unknown>
+#4 0x55ae8971ee59 <unknown>
+#5 0x55ae8976f93e <unknown>
+#6 0x55ae8976ef06 <unknown>
+#7 0x55ae897611b3 <unknown>
+#8 0x55ae8972d59b <unknown>
+#9 0x55ae8972e971 <unknown>
+#10 0x55ae89c0f22b <unknown>
+#11 0x55ae89c12f79 <unknown>
+#12 0x55ae89bf6309 <unknown>
+#13 0x55ae89c13b28 <unknown>
+#14 0x55ae89bdabef <unknown>
+#15 0x55ae89c370e8 <unknown>
+#16 0x55ae89c372c6 <unknown>
+#17 0x55ae89c49036 <unknown>
+#18 0x7f8162c969cb <unknown>
+#19 0x7f8162d1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105'} | Message: session not created: cannot connect to chrome at 127.0.0.1:60909
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55665723305a <unknown>
+#1 0x556656cd2a70 <unknown>
+#2 0x556656d138f7 <unknown>
+#3 0x556656d127e5 <unknown>
+#4 0x556656d07e59 <unknown>
+#5 0x556656d5893e <unknown>
+#6 0x556656d57f06 <unknown>
+#7 0x556656d4a1b3 <unknown>
+#8 0x556656d1659b <unknown>
+#9 0x556656d17971 <unknown>
+#10 0x5566571f822b <unknown>
+#11 0x5566571fbf79 <unknown>
+#12 0x5566571df309 <unknown>
+#13 0x5566571fcb28 <unknown>
+#14 0x5566571c3bef <unknown>
+#15 0x5566572200e8 <unknown>
+#16 0x5566572202c6 <unknown>
+#17 0x556657232036 <unknown>
+#18 0x7f6f450969cb <unknown>
+#19 0x7f6f4511aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442'} | Message: session not created: cannot connect to chrome at 127.0.0.1:41309
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5614e744a05a <unknown>
+#1 0x5614e6ee9a70 <unknown>
+#2 0x5614e6f2a8f7 <unknown>
+#3 0x5614e6f297e5 <unknown>
+#4 0x5614e6f1ee59 <unknown>
+#5 0x5614e6f6f93e <unknown>
+#6 0x5614e6f6ef06 <unknown>
+#7 0x5614e6f611b3 <unknown>
+#8 0x5614e6f2d59b <unknown>
+#9 0x5614e6f2e971 <unknown>
+#10 0x5614e740f22b <unknown>
+#11 0x5614e7412f79 <unknown>
+#12 0x5614e73f6309 <unknown>
+#13 0x5614e7413b28 <unknown>
+#14 0x5614e73dabef <unknown>
+#15 0x5614e74370e8 <unknown>
+#16 0x5614e74372c6 <unknown>
+#17 0x5614e7449036 <unknown>
+#18 0x7f1be24969cb <unknown>
+#19 0x7f1be251aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'proxies funcionando': '', '209.97.150.167': '8080', '58.187.70.96': '16000', '170.130.202.134': '3128', '198.199.86.11': '8080', '138.68.60.8': '80', '200.174.198.86': '8888', '27.79.240.177': '16000', '27.79.221.16': '16000', '43.153.43.58': '31280', '209.141.54.136': '5555', '27.71.134.202': '16000', '176.126.103.194': '44214', '8.219.97.248': '80', '57.129.81.201': '8080', '134.209.29.120': '80', '27.79.165.151': '16000', '35.238.111.20': '3128', '42.119.98.236': '16000', '45.86.44.243': '1080', '14.239.189.73': '8080'} | Message: session not created: cannot connect to chrome at 127.0.0.1:50687
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5590a0a7605a <unknown>
+#1 0x5590a0515a70 <unknown>
+#2 0x5590a05568f7 <unknown>
+#3 0x5590a05557e5 <unknown>
+#4 0x5590a054ae59 <unknown>
+#5 0x5590a059b93e <unknown>
+#6 0x5590a059af06 <unknown>
+#7 0x5590a058d1b3 <unknown>
+#8 0x5590a055959b <unknown>
+#9 0x5590a055a971 <unknown>
+#10 0x5590a0a3b22b <unknown>
+#11 0x5590a0a3ef79 <unknown>
+#12 0x5590a0a22309 <unknown>
+#13 0x5590a0a3fb28 <unknown>
+#14 0x5590a0a06bef <unknown>
+#15 0x5590a0a630e8 <unknown>
+#16 0x5590a0a632c6 <unknown>
+#17 0x5590a0a75036 <unknown>
+#18 0x7f80604969cb <unknown>
+#19 0x7f806051aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105'} | Message: session not created: cannot connect to chrome at 127.0.0.1:46959
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55efabe6505a <unknown>
+#1 0x55efab904a70 <unknown>
+#2 0x55efab9458f7 <unknown>
+#3 0x55efab9447e5 <unknown>
+#4 0x55efab939e59 <unknown>
+#5 0x55efab98a93e <unknown>
+#6 0x55efab989f06 <unknown>
+#7 0x55efab97c1b3 <unknown>
+#8 0x55efab94859b <unknown>
+#9 0x55efab949971 <unknown>
+#10 0x55efabe2a22b <unknown>
+#11 0x55efabe2df79 <unknown>
+#12 0x55efabe11309 <unknown>
+#13 0x55efabe2eb28 <unknown>
+#14 0x55efabdf5bef <unknown>
+#15 0x55efabe520e8 <unknown>
+#16 0x55efabe522c6 <unknown>
+#17 0x55efabe64036 <unknown>
+#18 0x7f29046969cb <unknown>
+#19 0x7f290471aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'proxies funcionando': '', '209.97.150.167': '8080', '58.187.70.96': '16000', '170.130.202.134': '3128', '198.199.86.11': '8080', '138.68.60.8': '80', '200.174.198.86': '8888', '27.79.240.177': '16000', '27.79.221.16': '16000', '43.153.43.58': '31280', '209.141.54.136': '5555', '27.71.134.202': '16000', '176.126.103.194': '44214', '8.219.97.248': '80', '57.129.81.201': '8080', '134.209.29.120': '80', '27.79.165.151': '16000', '35.238.111.20': '3128', '42.119.98.236': '16000', '45.86.44.243': '1080', '14.239.189.73': '8080'} | Message: session not created: cannot connect to chrome at 127.0.0.1:56975
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5585b579805a <unknown>
+#1 0x5585b5237a70 <unknown>
+#2 0x5585b52788f7 <unknown>
+#3 0x5585b52777e5 <unknown>
+#4 0x5585b526ce59 <unknown>
+#5 0x5585b52bd93e <unknown>
+#6 0x5585b52bcf06 <unknown>
+#7 0x5585b52af1b3 <unknown>
+#8 0x5585b527b59b <unknown>
+#9 0x5585b527c971 <unknown>
+#10 0x5585b575d22b <unknown>
+#11 0x5585b5760f79 <unknown>
+#12 0x5585b5744309 <unknown>
+#13 0x5585b5761b28 <unknown>
+#14 0x5585b5728bef <unknown>
+#15 0x5585b57850e8 <unknown>
+#16 0x5585b57852c6 <unknown>
+#17 0x5585b5797036 <unknown>
+#18 0x7fc900e969cb <unknown>
+#19 0x7fc900f1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442'} | Message: session not created: cannot connect to chrome at 127.0.0.1:36775
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55de6922905a <unknown>
+#1 0x55de68cc8a70 <unknown>
+#2 0x55de68d098f7 <unknown>
+#3 0x55de68d087e5 <unknown>
+#4 0x55de68cfde59 <unknown>
+#5 0x55de68d4e93e <unknown>
+#6 0x55de68d4df06 <unknown>
+#7 0x55de68d401b3 <unknown>
+#8 0x55de68d0c59b <unknown>
+#9 0x55de68d0d971 <unknown>
+#10 0x55de691ee22b <unknown>
+#11 0x55de691f1f79 <unknown>
+#12 0x55de691d5309 <unknown>
+#13 0x55de691f2b28 <unknown>
+#14 0x55de691b9bef <unknown>
+#15 0x55de692160e8 <unknown>
+#16 0x55de692162c6 <unknown>
+#17 0x55de69228036 <unknown>
+#18 0x7f9ffb6969cb <unknown>
+#19 0x7f9ffb71aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105'} | Message: session not created: cannot connect to chrome at 127.0.0.1:40849
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x56260734205a <unknown>
+#1 0x562606de1a70 <unknown>
+#2 0x562606e228f7 <unknown>
+#3 0x562606e217e5 <unknown>
+#4 0x562606e16e59 <unknown>
+#5 0x562606e6793e <unknown>
+#6 0x562606e66f06 <unknown>
+#7 0x562606e591b3 <unknown>
+#8 0x562606e2559b <unknown>
+#9 0x562606e26971 <unknown>
+#10 0x56260730722b <unknown>
+#11 0x56260730af79 <unknown>
+#12 0x5626072ee309 <unknown>
+#13 0x56260730bb28 <unknown>
+#14 0x5626072d2bef <unknown>
+#15 0x56260732f0e8 <unknown>
+#16 0x56260732f2c6 <unknown>
+#17 0x562607341036 <unknown>
+#18 0x7f9f798969cb <unknown>
+#19 0x7f9f7991aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442', 'proxy': 'proxy1|209.97.150.167:8080'} | Message: session not created: cannot connect to chrome at 127.0.0.1:60397
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x56256131005a <unknown>
+#1 0x562560dafa70 <unknown>
+#2 0x562560df08f7 <unknown>
+#3 0x562560def7e5 <unknown>
+#4 0x562560de4e59 <unknown>
+#5 0x562560e3593e <unknown>
+#6 0x562560e34f06 <unknown>
+#7 0x562560e271b3 <unknown>
+#8 0x562560df359b <unknown>
+#9 0x562560df4971 <unknown>
+#10 0x5625612d522b <unknown>
+#11 0x5625612d8f79 <unknown>
+#12 0x5625612bc309 <unknown>
+#13 0x5625612d9b28 <unknown>
+#14 0x5625612a0bef <unknown>
+#15 0x5625612fd0e8 <unknown>
+#16 0x5625612fd2c6 <unknown>
+#17 0x56256130f036 <unknown>
+#18 0x7f43506969cb <unknown>
+#19 0x7f435071aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105', 'proxy': 'proxy2|58.187.70.96:16000'} | Message: session not created: cannot connect to chrome at 127.0.0.1:38741
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x560a04cbc05a <unknown>
+#1 0x560a0475ba70 <unknown>
+#2 0x560a0479c8f7 <unknown>
+#3 0x560a0479b7e5 <unknown>
+#4 0x560a04790e59 <unknown>
+#5 0x560a047e193e <unknown>
+#6 0x560a047e0f06 <unknown>
+#7 0x560a047d31b3 <unknown>
+#8 0x560a0479f59b <unknown>
+#9 0x560a047a0971 <unknown>
+#10 0x560a04c8122b <unknown>
+#11 0x560a04c84f79 <unknown>
+#12 0x560a04c68309 <unknown>
+#13 0x560a04c85b28 <unknown>
+#14 0x560a04c4cbef <unknown>
+#15 0x560a04ca90e8 <unknown>
+#16 0x560a04ca92c6 <unknown>
+#17 0x560a04cbb036 <unknown>
+#18 0x7f76a0c969cb <unknown>
+#19 0x7f76a0d1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442', 'proxy': 'proxy1|209.97.150.167:8080'} | Message: session not created: cannot connect to chrome at 127.0.0.1:32783
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55edcf7b205a <unknown>
+#1 0x55edcf251a70 <unknown>
+#2 0x55edcf2928f7 <unknown>
+#3 0x55edcf2917e5 <unknown>
+#4 0x55edcf286e59 <unknown>
+#5 0x55edcf2d793e <unknown>
+#6 0x55edcf2d6f06 <unknown>
+#7 0x55edcf2c91b3 <unknown>
+#8 0x55edcf29559b <unknown>
+#9 0x55edcf296971 <unknown>
+#10 0x55edcf77722b <unknown>
+#11 0x55edcf77af79 <unknown>
+#12 0x55edcf75e309 <unknown>
+#13 0x55edcf77bb28 <unknown>
+#14 0x55edcf742bef <unknown>
+#15 0x55edcf79f0e8 <unknown>
+#16 0x55edcf79f2c6 <unknown>
+#17 0x55edcf7b1036 <unknown>
+#18 0x7fd9dfc969cb <unknown>
+#19 0x7fd9dfd1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105', 'proxy': 'proxy2|58.187.70.96:16000'} | Message: session not created: cannot connect to chrome at 127.0.0.1:57261
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55db55e4405a <unknown>
+#1 0x55db558e3a70 <unknown>
+#2 0x55db559248f7 <unknown>
+#3 0x55db559237e5 <unknown>
+#4 0x55db55918e59 <unknown>
+#5 0x55db5596993e <unknown>
+#6 0x55db55968f06 <unknown>
+#7 0x55db5595b1b3 <unknown>
+#8 0x55db5592759b <unknown>
+#9 0x55db55928971 <unknown>
+#10 0x55db55e0922b <unknown>
+#11 0x55db55e0cf79 <unknown>
+#12 0x55db55df0309 <unknown>
+#13 0x55db55e0db28 <unknown>
+#14 0x55db55dd4bef <unknown>
+#15 0x55db55e310e8 <unknown>
+#16 0x55db55e312c6 <unknown>
+#17 0x55db55e43036 <unknown>
+#18 0x7f58d14969cb <unknown>
+#19 0x7f58d151aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442', 'proxy': 'proxy1|209.97.150.167:8080'} | Message: session not created: cannot connect to chrome at 127.0.0.1:54047
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x562c2c14205a <unknown>
+#1 0x562c2bbe1a70 <unknown>
+#2 0x562c2bc228f7 <unknown>
+#3 0x562c2bc217e5 <unknown>
+#4 0x562c2bc16e59 <unknown>
+#5 0x562c2bc6793e <unknown>
+#6 0x562c2bc66f06 <unknown>
+#7 0x562c2bc591b3 <unknown>
+#8 0x562c2bc2559b <unknown>
+#9 0x562c2bc26971 <unknown>
+#10 0x562c2c10722b <unknown>
+#11 0x562c2c10af79 <unknown>
+#12 0x562c2c0ee309 <unknown>
+#13 0x562c2c10bb28 <unknown>
+#14 0x562c2c0d2bef <unknown>
+#15 0x562c2c12f0e8 <unknown>
+#16 0x562c2c12f2c6 <unknown>
+#17 0x562c2c141036 <unknown>
+#18 0x7fe9fcc969cb <unknown>
+#19 0x7fe9fcd1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105', 'proxy': 'proxy2|58.187.70.96:16000'} | Message: session not created: cannot connect to chrome at 127.0.0.1:46359
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55a23084805a <unknown>
+#1 0x55a2302e7a70 <unknown>
+#2 0x55a2303288f7 <unknown>
+#3 0x55a2303277e5 <unknown>
+#4 0x55a23031ce59 <unknown>
+#5 0x55a23036d93e <unknown>
+#6 0x55a23036cf06 <unknown>
+#7 0x55a23035f1b3 <unknown>
+#8 0x55a23032b59b <unknown>
+#9 0x55a23032c971 <unknown>
+#10 0x55a23080d22b <unknown>
+#11 0x55a230810f79 <unknown>
+#12 0x55a2307f4309 <unknown>
+#13 0x55a230811b28 <unknown>
+#14 0x55a2307d8bef <unknown>
+#15 0x55a2308350e8 <unknown>
+#16 0x55a2308352c6 <unknown>
+#17 0x55a230847036 <unknown>
+#18 0x7fe6538969cb <unknown>
+#19 0x7fe65391aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442', 'proxy': 'proxy1|209.97.150.167:8080'} | Message: session not created: cannot connect to chrome at 127.0.0.1:41661
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5652d1ec805a <unknown>
+#1 0x5652d1967a70 <unknown>
+#2 0x5652d19a88f7 <unknown>
+#3 0x5652d19a77e5 <unknown>
+#4 0x5652d199ce59 <unknown>
+#5 0x5652d19ed93e <unknown>
+#6 0x5652d19ecf06 <unknown>
+#7 0x5652d19df1b3 <unknown>
+#8 0x5652d19ab59b <unknown>
+#9 0x5652d19ac971 <unknown>
+#10 0x5652d1e8d22b <unknown>
+#11 0x5652d1e90f79 <unknown>
+#12 0x5652d1e74309 <unknown>
+#13 0x5652d1e91b28 <unknown>
+#14 0x5652d1e58bef <unknown>
+#15 0x5652d1eb50e8 <unknown>
+#16 0x5652d1eb52c6 <unknown>
+#17 0x5652d1ec7036 <unknown>
+#18 0x7f4e688969cb <unknown>
+#19 0x7f4e6891aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105', 'proxy': 'proxy2|58.187.70.96:16000'} | Message: session not created: cannot connect to chrome at 127.0.0.1:53043
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55bcf254c05a <unknown>
+#1 0x55bcf1feba70 <unknown>
+#2 0x55bcf202c8f7 <unknown>
+#3 0x55bcf202b7e5 <unknown>
+#4 0x55bcf2020e59 <unknown>
+#5 0x55bcf207193e <unknown>
+#6 0x55bcf2070f06 <unknown>
+#7 0x55bcf20631b3 <unknown>
+#8 0x55bcf202f59b <unknown>
+#9 0x55bcf2030971 <unknown>
+#10 0x55bcf251122b <unknown>
+#11 0x55bcf2514f79 <unknown>
+#12 0x55bcf24f8309 <unknown>
+#13 0x55bcf2515b28 <unknown>
+#14 0x55bcf24dcbef <unknown>
+#15 0x55bcf25390e8 <unknown>
+#16 0x55bcf25392c6 <unknown>
+#17 0x55bcf254b036 <unknown>
+#18 0x7f747be969cb <unknown>
+#19 0x7f747bf1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442'} | Message: session not created: cannot connect to chrome at 127.0.0.1:32851
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55b7f685405a <unknown>
+#1 0x55b7f62f3a70 <unknown>
+#2 0x55b7f63348f7 <unknown>
+#3 0x55b7f63337e5 <unknown>
+#4 0x55b7f6328e59 <unknown>
+#5 0x55b7f637993e <unknown>
+#6 0x55b7f6378f06 <unknown>
+#7 0x55b7f636b1b3 <unknown>
+#8 0x55b7f633759b <unknown>
+#9 0x55b7f6338971 <unknown>
+#10 0x55b7f681922b <unknown>
+#11 0x55b7f681cf79 <unknown>
+#12 0x55b7f6800309 <unknown>
+#13 0x55b7f681db28 <unknown>
+#14 0x55b7f67e4bef <unknown>
+#15 0x55b7f68410e8 <unknown>
+#16 0x55b7f68412c6 <unknown>
+#17 0x55b7f6853036 <unknown>
+#18 0x7ff5afa969cb <unknown>
+#19 0x7ff5afb1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105'} | Message: session not created: cannot connect to chrome at 127.0.0.1:47519
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5584c04e105a <unknown>
+#1 0x5584bff80a70 <unknown>
+#2 0x5584bffc18f7 <unknown>
+#3 0x5584bffc07e5 <unknown>
+#4 0x5584bffb5e59 <unknown>
+#5 0x5584c000693e <unknown>
+#6 0x5584c0005f06 <unknown>
+#7 0x5584bfff81b3 <unknown>
+#8 0x5584bffc459b <unknown>
+#9 0x5584bffc5971 <unknown>
+#10 0x5584c04a622b <unknown>
+#11 0x5584c04a9f79 <unknown>
+#12 0x5584c048d309 <unknown>
+#13 0x5584c04aab28 <unknown>
+#14 0x5584c0471bef <unknown>
+#15 0x5584c04ce0e8 <unknown>
+#16 0x5584c04ce2c6 <unknown>
+#17 0x5584c04e0036 <unknown>
+#18 0x7ff414c969cb <unknown>
+#19 0x7ff414d1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442'} | Message: session not created: cannot connect to chrome at 127.0.0.1:45301
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x563a6577005a <unknown>
+#1 0x563a6520fa70 <unknown>
+#2 0x563a652508f7 <unknown>
+#3 0x563a6524f7e5 <unknown>
+#4 0x563a65244e59 <unknown>
+#5 0x563a6529593e <unknown>
+#6 0x563a65294f06 <unknown>
+#7 0x563a652871b3 <unknown>
+#8 0x563a6525359b <unknown>
+#9 0x563a65254971 <unknown>
+#10 0x563a6573522b <unknown>
+#11 0x563a65738f79 <unknown>
+#12 0x563a6571c309 <unknown>
+#13 0x563a65739b28 <unknown>
+#14 0x563a65700bef <unknown>
+#15 0x563a6575d0e8 <unknown>
+#16 0x563a6575d2c6 <unknown>
+#17 0x563a6576f036 <unknown>
+#18 0x7f84c2c969cb <unknown>
+#19 0x7f84c2d1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105'} | Message: session not created: cannot connect to chrome at 127.0.0.1:40679
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55748f77405a <unknown>
+#1 0x55748f213a70 <unknown>
+#2 0x55748f2548f7 <unknown>
+#3 0x55748f2537e5 <unknown>
+#4 0x55748f248e59 <unknown>
+#5 0x55748f29993e <unknown>
+#6 0x55748f298f06 <unknown>
+#7 0x55748f28b1b3 <unknown>
+#8 0x55748f25759b <unknown>
+#9 0x55748f258971 <unknown>
+#10 0x55748f73922b <unknown>
+#11 0x55748f73cf79 <unknown>
+#12 0x55748f720309 <unknown>
+#13 0x55748f73db28 <unknown>
+#14 0x55748f704bef <unknown>
+#15 0x55748f7610e8 <unknown>
+#16 0x55748f7612c6 <unknown>
+#17 0x55748f773036 <unknown>
+#18 0x7f149c2969cb <unknown>
+#19 0x7f149c31aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578726357023', 'login': 'RichardHodgeiv@outlook.com', 'password': 'Fpy57HD5', 'email': 'RichardHodgeiv@outlook.com', 'emailpassword': 'ZEjolz24442'} | Message: session not created: cannot connect to chrome at 127.0.0.1:58117
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55f6a482905a <unknown>
+#1 0x55f6a42c8a70 <unknown>
+#2 0x55f6a43098f7 <unknown>
+#3 0x55f6a43087e5 <unknown>
+#4 0x55f6a42fde59 <unknown>
+#5 0x55f6a434e93e <unknown>
+#6 0x55f6a434df06 <unknown>
+#7 0x55f6a43401b3 <unknown>
+#8 0x55f6a430c59b <unknown>
+#9 0x55f6a430d971 <unknown>
+#10 0x55f6a47ee22b <unknown>
+#11 0x55f6a47f1f79 <unknown>
+#12 0x55f6a47d5309 <unknown>
+#13 0x55f6a47f2b28 <unknown>
+#14 0x55f6a47b9bef <unknown>
+#15 0x55f6a48160e8 <unknown>
+#16 0x55f6a48162c6 <unknown>
+#17 0x55f6a4828036 <unknown>
+#18 0x7feda00969cb <unknown>
+#19 0x7feda011aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[FALHA GERAL] {'uid': '61578810533073', 'login': 'GeorgeJonesoq@outlook.com', 'password': 'vX733bZ3', 'email': 'GeorgeJonesoq@outlook.com', 'emailpassword': 'UIXm8105'} | Message: session not created: cannot connect to chrome at 127.0.0.1:45439
+from session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 138.0.7204.168; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55ae2fc2205a <unknown>
+#1 0x55ae2f6c1a70 <unknown>
+#2 0x55ae2f7028f7 <unknown>
+#3 0x55ae2f7017e5 <unknown>
+#4 0x55ae2f6f6e59 <unknown>
+#5 0x55ae2f74793e <unknown>
+#6 0x55ae2f746f06 <unknown>
+#7 0x55ae2f7391b3 <unknown>
+#8 0x55ae2f70559b <unknown>
+#9 0x55ae2f706971 <unknown>
+#10 0x55ae2fbe722b <unknown>
+#11 0x55ae2fbeaf79 <unknown>
+#12 0x55ae2fbce309 <unknown>
+#13 0x55ae2fbebb28 <unknown>
+#14 0x55ae2fbb2bef <unknown>
+#15 0x55ae2fc0f0e8 <unknown>
+#16 0x55ae2fc0f2c6 <unknown>
+#17 0x55ae2fc21036 <unknown>
+#18 0x7f9e5f6969cb <unknown>
+#19 0x7f9e5f71aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Linux Distro Brasil | Conta: RichardHodgeiv@outlook.com | Message: invalid element state
+  (Session info: chrome=139.0.7258.66)
+Stacktrace:
+#0 0x56244f6c705a <unknown>
+#1 0x56244f1668c3 <unknown>
+#2 0x56244f1aee7e <unknown>
+#3 0x56244f1de3e2 <unknown>
+#4 0x56244f1ac49a <unknown>
+#5 0x56244f1de5ae <unknown>
+#6 0x56244f20414f <unknown>
+#7 0x56244f1de1b3 <unknown>
+#8 0x56244f1aa59b <unknown>
+#9 0x56244f1ab971 <unknown>
+#10 0x56244f68c22b <unknown>
+#11 0x56244f68ff79 <unknown>
+#12 0x56244f673309 <unknown>
+#13 0x56244f690b28 <unknown>
+#14 0x56244f657bef <unknown>
+#15 0x56244f6b40e8 <unknown>
+#16 0x56244f6b42c6 <unknown>
+#17 0x56244f6c6036 <unknown>
+#18 0x7fde004969cb <unknown>
+#19 0x7fde0051aa4c <unknown>
+
+ERROR:root:[ERRO] Comunidade Free Fire 2025 | Conta: RichardHodgeiv@outlook.com | Message: invalid element state
+  (Session info: chrome=139.0.7258.66)
+Stacktrace:
+#0 0x56244f6c705a <unknown>
+#1 0x56244f1668c3 <unknown>
+#2 0x56244f1aee7e <unknown>
+#3 0x56244f1de3e2 <unknown>
+#4 0x56244f1ac49a <unknown>
+#5 0x56244f1de5ae <unknown>
+#6 0x56244f20414f <unknown>
+#7 0x56244f1de1b3 <unknown>
+#8 0x56244f1aa59b <unknown>
+#9 0x56244f1ab971 <unknown>
+#10 0x56244f68c22b <unknown>
+#11 0x56244f68ff79 <unknown>
+#12 0x56244f673309 <unknown>
+#13 0x56244f690b28 <unknown>
+#14 0x56244f657bef <unknown>
+#15 0x56244f6b40e8 <unknown>
+#16 0x56244f6b42c6 <unknown>
+#17 0x56244f6c6036 <unknown>
+#18 0x7fde004969cb <unknown>
+#19 0x7fde0051aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Steam Jogos Baratos | Conta: RichardHodgeiv@outlook.com | Message: invalid element state
+  (Session info: chrome=139.0.7258.66)
+Stacktrace:
+#0 0x55e03418c05a <unknown>
+#1 0x55e033c2b8c3 <unknown>
+#2 0x55e033c73e7e <unknown>
+#3 0x55e033ca33e2 <unknown>
+#4 0x55e033c7149a <unknown>
+#5 0x55e033ca35ae <unknown>
+#6 0x55e033cc914f <unknown>
+#7 0x55e033ca31b3 <unknown>
+#8 0x55e033c6f59b <unknown>
+#9 0x55e033c70971 <unknown>
+#10 0x55e03415122b <unknown>
+#11 0x55e034154f79 <unknown>
+#12 0x55e034138309 <unknown>
+#13 0x55e034155b28 <unknown>
+#14 0x55e03411cbef <unknown>
+#15 0x55e0341790e8 <unknown>
+#16 0x55e0341792c6 <unknown>
+#17 0x55e03418b036 <unknown>
+#18 0x7f0614e969cb <unknown>
+#19 0x7f0614f1aa4c <unknown>
+
+ERROR:root:[ERRO] Roblox Brasil Oficial | Conta: RichardHodgeiv@outlook.com | Message: invalid element state
+  (Session info: chrome=139.0.7258.66)
+Stacktrace:
+#0 0x55e03418c05a <unknown>
+#1 0x55e033c2b8c3 <unknown>
+#2 0x55e033c73e7e <unknown>
+#3 0x55e033ca33e2 <unknown>
+#4 0x55e033c7149a <unknown>
+#5 0x55e033ca35ae <unknown>
+#6 0x55e033cc914f <unknown>
+#7 0x55e033ca31b3 <unknown>
+#8 0x55e033c6f59b <unknown>
+#9 0x55e033c70971 <unknown>
+#10 0x55e03415122b <unknown>
+#11 0x55e034154f79 <unknown>
+#12 0x55e034138309 <unknown>
+#13 0x55e034155b28 <unknown>
+#14 0x55e03411cbef <unknown>
+#15 0x55e0341790e8 <unknown>
+#16 0x55e0341792c6 <unknown>
+#17 0x55e03418b036 <unknown>
+#18 0x7f0614e969cb <unknown>
+#19 0x7f0614f1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Vida Fitness & Saúde BR | Conta: GeorgeJonesoq@outlook.com | Message: invalid element state
+  (Session info: chrome=139.0.7258.66)
+Stacktrace:
+#0 0x55cb111ff05a <unknown>
+#1 0x55cb10c9e8c3 <unknown>
+#2 0x55cb10ce6e7e <unknown>
+#3 0x55cb10d163e2 <unknown>
+#4 0x55cb10ce449a <unknown>
+#5 0x55cb10d165ae <unknown>
+#6 0x55cb10d3c14f <unknown>
+#7 0x55cb10d161b3 <unknown>
+#8 0x55cb10ce259b <unknown>
+#9 0x55cb10ce3971 <unknown>
+#10 0x55cb111c422b <unknown>
+#11 0x55cb111c7f79 <unknown>
+#12 0x55cb111ab309 <unknown>
+#13 0x55cb111c8b28 <unknown>
+#14 0x55cb1118fbef <unknown>
+#15 0x55cb111ec0e8 <unknown>
+#16 0x55cb111ec2c6 <unknown>
+#17 0x55cb111fe036 <unknown>
+#18 0x7fe7e12969cb <unknown>
+#19 0x7fe7e131aa4c <unknown>
+
+ERROR:root:[ERRO] Empreendedores Digitais | Conta: GeorgeJonesoq@outlook.com | Message: invalid element state
+  (Session info: chrome=139.0.7258.66)
+Stacktrace:
+#0 0x55cb111ff05a <unknown>
+#1 0x55cb10c9e8c3 <unknown>
+#2 0x55cb10ce6e7e <unknown>
+#3 0x55cb10d163e2 <unknown>
+#4 0x55cb10ce449a <unknown>
+#5 0x55cb10d165ae <unknown>
+#6 0x55cb10d3c14f <unknown>
+#7 0x55cb10d161b3 <unknown>
+#8 0x55cb10ce259b <unknown>
+#9 0x55cb10ce3971 <unknown>
+#10 0x55cb111c422b <unknown>
+#11 0x55cb111c7f79 <unknown>
+#12 0x55cb111ab309 <unknown>
+#13 0x55cb111c8b28 <unknown>
+#14 0x55cb1118fbef <unknown>
+#15 0x55cb111ec0e8 <unknown>
+#16 0x55cb111ec2c6 <unknown>
+#17 0x55cb111fe036 <unknown>
+#18 0x7fe7e12969cb <unknown>
+#19 0x7fe7e131aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Humor Nerd Sem Limites | Conta: RichardHodgeiv@outlook.com | Message: invalid element state
+  (Session info: chrome=139.0.7258.66)
+Stacktrace:
+#0 0x5610f394105a <unknown>
+#1 0x5610f33e08c3 <unknown>
+#2 0x5610f3428e7e <unknown>
+#3 0x5610f34583e2 <unknown>
+#4 0x5610f342649a <unknown>
+#5 0x5610f34585ae <unknown>
+#6 0x5610f347e14f <unknown>
+#7 0x5610f34581b3 <unknown>
+#8 0x5610f342459b <unknown>
+#9 0x5610f3425971 <unknown>
+#10 0x5610f390622b <unknown>
+#11 0x5610f3909f79 <unknown>
+#12 0x5610f38ed309 <unknown>
+#13 0x5610f390ab28 <unknown>
+#14 0x5610f38d1bef <unknown>
+#15 0x5610f392e0e8 <unknown>
+#16 0x5610f392e2c6 <unknown>
+#17 0x5610f3940036 <unknown>
+#18 0x7f56fc0969cb <unknown>
+#19 0x7f56fc11aa4c <unknown>
+
+ERROR:root:[ERRO] Programadores Brasil | Conta: RichardHodgeiv@outlook.com | Message: invalid element state
+  (Session info: chrome=139.0.7258.66)
+Stacktrace:
+#0 0x5610f394105a <unknown>
+#1 0x5610f33e08c3 <unknown>
+#2 0x5610f3428e7e <unknown>
+#3 0x5610f34583e2 <unknown>
+#4 0x5610f342649a <unknown>
+#5 0x5610f34585ae <unknown>
+#6 0x5610f347e14f <unknown>
+#7 0x5610f34581b3 <unknown>
+#8 0x5610f342459b <unknown>
+#9 0x5610f3425971 <unknown>
+#10 0x5610f390622b <unknown>
+#11 0x5610f3909f79 <unknown>
+#12 0x5610f38ed309 <unknown>
+#13 0x5610f390ab28 <unknown>
+#14 0x5610f38d1bef <unknown>
+#15 0x5610f392e0e8 <unknown>
+#16 0x5610f392e2c6 <unknown>
+#17 0x5610f3940036 <unknown>
+#18 0x7f56fc0969cb <unknown>
+#19 0x7f56fc11aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Só Vendas Diretas | Conta: GeorgeJonesoq@outlook.com | Message: invalid element state
+  (Session info: chrome=139.0.7258.66)
+Stacktrace:
+#0 0x55ca9905005a <unknown>
+#1 0x55ca98aef8c3 <unknown>
+#2 0x55ca98b37e7e <unknown>
+#3 0x55ca98b673e2 <unknown>
+#4 0x55ca98b3549a <unknown>
+#5 0x55ca98b675ae <unknown>
+#6 0x55ca98b8d14f <unknown>
+#7 0x55ca98b671b3 <unknown>
+#8 0x55ca98b3359b <unknown>
+#9 0x55ca98b34971 <unknown>
+#10 0x55ca9901522b <unknown>
+#11 0x55ca99018f79 <unknown>
+#12 0x55ca98ffc309 <unknown>
+#13 0x55ca99019b28 <unknown>
+#14 0x55ca98fe0bef <unknown>
+#15 0x55ca9903d0e8 <unknown>
+#16 0x55ca9903d2c6 <unknown>
+#17 0x55ca9904f036 <unknown>
+#18 0x7f16cda969cb <unknown>
+#19 0x7f16cdb1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Roblox Brasil Oficial | Conta: RichardHodgeiv@outlook.com | Message: 
+Stacktrace:
+#0 0x55cb300ef05a <unknown>
+#1 0x55cb2fb8ea70 <unknown>
+#2 0x55cb2fbe0907 <unknown>
+#3 0x55cb2fbe0b01 <unknown>
+#4 0x55cb2fc2ed54 <unknown>
+#5 0x55cb2fc0640d <unknown>
+#6 0x55cb2fc2c14f <unknown>
+#7 0x55cb2fc061b3 <unknown>
+#8 0x55cb2fbd259b <unknown>
+#9 0x55cb2fbd3971 <unknown>
+#10 0x55cb300b422b <unknown>
+#11 0x55cb300b7f79 <unknown>
+#12 0x55cb3009b309 <unknown>
+#13 0x55cb300b8b28 <unknown>
+#14 0x55cb3007fbef <unknown>
+#15 0x55cb300dc0e8 <unknown>
+#16 0x55cb300dc2c6 <unknown>
+#17 0x55cb300ee036 <unknown>
+#18 0x7fbbba0969cb <unknown>
+#19 0x7fbbba11aa4c <unknown>
+
+ERROR:root:[ERRO] Marketplace Nacional | Conta: RichardHodgeiv@outlook.com | Message: 
+Stacktrace:
+#0 0x55cb300ef05a <unknown>
+#1 0x55cb2fb8ea70 <unknown>
+#2 0x55cb2fbe0907 <unknown>
+#3 0x55cb2fbe0b01 <unknown>
+#4 0x55cb2fc2ed54 <unknown>
+#5 0x55cb2fc0640d <unknown>
+#6 0x55cb2fc2c14f <unknown>
+#7 0x55cb2fc061b3 <unknown>
+#8 0x55cb2fbd259b <unknown>
+#9 0x55cb2fbd3971 <unknown>
+#10 0x55cb300b422b <unknown>
+#11 0x55cb300b7f79 <unknown>
+#12 0x55cb3009b309 <unknown>
+#13 0x55cb300b8b28 <unknown>
+#14 0x55cb3007fbef <unknown>
+#15 0x55cb300dc0e8 <unknown>
+#16 0x55cb300dc2c6 <unknown>
+#17 0x55cb300ee036 <unknown>
+#18 0x7fbbba0969cb <unknown>
+#19 0x7fbbba11aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Linux Distro Brasil | Conta: RichardHodgeiv@outlook.com | Message: 
+Stacktrace:
+#0 0x55a756c4805a <unknown>
+#1 0x55a7566e7a70 <unknown>
+#2 0x55a756739907 <unknown>
+#3 0x55a756739b01 <unknown>
+#4 0x55a756787d54 <unknown>
+#5 0x55a75675f40d <unknown>
+#6 0x55a75678514f <unknown>
+#7 0x55a75675f1b3 <unknown>
+#8 0x55a75672b59b <unknown>
+#9 0x55a75672c971 <unknown>
+#10 0x55a756c0d22b <unknown>
+#11 0x55a756c10f79 <unknown>
+#12 0x55a756bf4309 <unknown>
+#13 0x55a756c11b28 <unknown>
+#14 0x55a756bd8bef <unknown>
+#15 0x55a756c350e8 <unknown>
+#16 0x55a756c352c6 <unknown>
+#17 0x55a756c47036 <unknown>
+#18 0x7f566ae969cb <unknown>
+#19 0x7f566af1aa4c <unknown>
+
+ERROR:root:[ERRO] Curiosidades e Mistérios | Conta: RichardHodgeiv@outlook.com | Message: 
+Stacktrace:
+#0 0x55a756c4805a <unknown>
+#1 0x55a7566e7a70 <unknown>
+#2 0x55a756739907 <unknown>
+#3 0x55a756739b01 <unknown>
+#4 0x55a756787d54 <unknown>
+#5 0x55a75675f40d <unknown>
+#6 0x55a75678514f <unknown>
+#7 0x55a75675f1b3 <unknown>
+#8 0x55a75672b59b <unknown>
+#9 0x55a75672c971 <unknown>
+#10 0x55a756c0d22b <unknown>
+#11 0x55a756c10f79 <unknown>
+#12 0x55a756bf4309 <unknown>
+#13 0x55a756c11b28 <unknown>
+#14 0x55a756bd8bef <unknown>
+#15 0x55a756c350e8 <unknown>
+#16 0x55a756c352c6 <unknown>
+#17 0x55a756c47036 <unknown>
+#18 0x7f566ae969cb <unknown>
+#19 0x7f566af1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Marketplace Nacional | Conta: GeorgeJonesoq@outlook.com | Message: 
+Stacktrace:
+#0 0x5630f486c05a <unknown>
+#1 0x5630f430ba70 <unknown>
+#2 0x5630f435d907 <unknown>
+#3 0x5630f435db01 <unknown>
+#4 0x5630f43abd54 <unknown>
+#5 0x5630f438340d <unknown>
+#6 0x5630f43a914f <unknown>
+#7 0x5630f43831b3 <unknown>
+#8 0x5630f434f59b <unknown>
+#9 0x5630f4350971 <unknown>
+#10 0x5630f483122b <unknown>
+#11 0x5630f4834f79 <unknown>
+#12 0x5630f4818309 <unknown>
+#13 0x5630f4835b28 <unknown>
+#14 0x5630f47fcbef <unknown>
+#15 0x5630f48590e8 <unknown>
+#16 0x5630f48592c6 <unknown>
+#17 0x5630f486b036 <unknown>
+#18 0x7f05a06969cb <unknown>
+#19 0x7f05a071aa4c <unknown>
+
+ERROR:root:[ERRO] Notícias URGENTE 24H | Conta: GeorgeJonesoq@outlook.com | ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Linux Distro Brasil | Conta: RichardHodgeiv@outlook.com | Message: 
+Stacktrace:
+#0 0x55d06577805a <unknown>
+#1 0x55d065217a70 <unknown>
+#2 0x55d065269907 <unknown>
+#3 0x55d065269b01 <unknown>
+#4 0x55d0652b7d54 <unknown>
+#5 0x55d06528f40d <unknown>
+#6 0x55d0652b514f <unknown>
+#7 0x55d06528f1b3 <unknown>
+#8 0x55d06525b59b <unknown>
+#9 0x55d06525c971 <unknown>
+#10 0x55d06573d22b <unknown>
+#11 0x55d065740f79 <unknown>
+#12 0x55d065724309 <unknown>
+#13 0x55d065741b28 <unknown>
+#14 0x55d065708bef <unknown>
+#15 0x55d0657650e8 <unknown>
+#16 0x55d0657652c6 <unknown>
+#17 0x55d065777036 <unknown>
+#18 0x7f20f1e969cb <unknown>
+#19 0x7f20f1f1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754704008.png
+ERROR:root:[ERRO] Zueira Nerd e Geek | Conta: RichardHodgeiv@outlook.com | Message: 
+Stacktrace:
+#0 0x55d06577805a <unknown>
+#1 0x55d065217a70 <unknown>
+#2 0x55d065269907 <unknown>
+#3 0x55d065269b01 <unknown>
+#4 0x55d0652b7d54 <unknown>
+#5 0x55d06528f40d <unknown>
+#6 0x55d0652b514f <unknown>
+#7 0x55d06528f1b3 <unknown>
+#8 0x55d06525b59b <unknown>
+#9 0x55d06525c971 <unknown>
+#10 0x55d06573d22b <unknown>
+#11 0x55d065740f79 <unknown>
+#12 0x55d065724309 <unknown>
+#13 0x55d065741b28 <unknown>
+#14 0x55d065708bef <unknown>
+#15 0x55d0657650e8 <unknown>
+#16 0x55d0657652c6 <unknown>
+#17 0x55d065777036 <unknown>
+#18 0x7f20f1e969cb <unknown>
+#19 0x7f20f1f1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754704065.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Curiosidades e Mistérios | Conta: GeorgeJonesoq@outlook.com | Message: 
+Stacktrace:
+#0 0x55d2e27c705a <unknown>
+#1 0x55d2e2266a70 <unknown>
+#2 0x55d2e22b8907 <unknown>
+#3 0x55d2e22b8b01 <unknown>
+#4 0x55d2e2306d54 <unknown>
+#5 0x55d2e22de40d <unknown>
+#6 0x55d2e230414f <unknown>
+#7 0x55d2e22de1b3 <unknown>
+#8 0x55d2e22aa59b <unknown>
+#9 0x55d2e22ab971 <unknown>
+#10 0x55d2e278c22b <unknown>
+#11 0x55d2e278ff79 <unknown>
+#12 0x55d2e2773309 <unknown>
+#13 0x55d2e2790b28 <unknown>
+#14 0x55d2e2757bef <unknown>
+#15 0x55d2e27b40e8 <unknown>
+#16 0x55d2e27b42c6 <unknown>
+#17 0x55d2e27c6036 <unknown>
+#18 0x7f7a11a969cb <unknown>
+#19 0x7f7a11b1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754704136.png
+ERROR:root:[ERRO] Curiosidades e Mistérios | Conta: GeorgeJonesoq@outlook.com | Message: 
+Stacktrace:
+#0 0x55d2e27c705a <unknown>
+#1 0x55d2e2266a70 <unknown>
+#2 0x55d2e22b8907 <unknown>
+#3 0x55d2e22b8b01 <unknown>
+#4 0x55d2e2306d54 <unknown>
+#5 0x55d2e22de40d <unknown>
+#6 0x55d2e230414f <unknown>
+#7 0x55d2e22de1b3 <unknown>
+#8 0x55d2e22aa59b <unknown>
+#9 0x55d2e22ab971 <unknown>
+#10 0x55d2e278c22b <unknown>
+#11 0x55d2e278ff79 <unknown>
+#12 0x55d2e2773309 <unknown>
+#13 0x55d2e2790b28 <unknown>
+#14 0x55d2e2757bef <unknown>
+#15 0x55d2e27b40e8 <unknown>
+#16 0x55d2e27b42c6 <unknown>
+#17 0x55d2e27c6036 <unknown>
+#18 0x7f7a11a969cb <unknown>
+#19 0x7f7a11b1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754704190.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Debate Polêmico Brasil | Conta: RichardHodgeiv@outlook.com | Message: 
+Stacktrace:
+#0 0x5559731cd05a <unknown>
+#1 0x555972c6ca70 <unknown>
+#2 0x555972cbe907 <unknown>
+#3 0x555972cbeb01 <unknown>
+#4 0x555972d0cd54 <unknown>
+#5 0x555972ce440d <unknown>
+#6 0x555972d0a14f <unknown>
+#7 0x555972ce41b3 <unknown>
+#8 0x555972cb059b <unknown>
+#9 0x555972cb1971 <unknown>
+#10 0x55597319222b <unknown>
+#11 0x555973195f79 <unknown>
+#12 0x555973179309 <unknown>
+#13 0x555973196b28 <unknown>
+#14 0x55597315dbef <unknown>
+#15 0x5559731ba0e8 <unknown>
+#16 0x5559731ba2c6 <unknown>
+#17 0x5559731cc036 <unknown>
+#18 0x7ff4b7a969cb <unknown>
+#19 0x7ff4b7b1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754764969.png
+ERROR:root:[ERRO] Curiosidades e Mistérios | Conta: RichardHodgeiv@outlook.com | Message: 
+Stacktrace:
+#0 0x5559731cd05a <unknown>
+#1 0x555972c6ca70 <unknown>
+#2 0x555972cbe907 <unknown>
+#3 0x555972cbeb01 <unknown>
+#4 0x555972d0cd54 <unknown>
+#5 0x555972ce440d <unknown>
+#6 0x555972d0a14f <unknown>
+#7 0x555972ce41b3 <unknown>
+#8 0x555972cb059b <unknown>
+#9 0x555972cb1971 <unknown>
+#10 0x55597319222b <unknown>
+#11 0x555973195f79 <unknown>
+#12 0x555973179309 <unknown>
+#13 0x555973196b28 <unknown>
+#14 0x55597315dbef <unknown>
+#15 0x5559731ba0e8 <unknown>
+#16 0x5559731ba2c6 <unknown>
+#17 0x5559731cc036 <unknown>
+#18 0x7ff4b7a969cb <unknown>
+#19 0x7ff4b7b1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754765014.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Brechó Online RJ/SP | Message: 
+Stacktrace:
+#0 0x5596fbee305a <unknown>
+#1 0x5596fb982a70 <unknown>
+#2 0x5596fb9d4907 <unknown>
+#3 0x5596fb9d4b01 <unknown>
+#4 0x5596fba22d54 <unknown>
+#5 0x5596fb9fa40d <unknown>
+#6 0x5596fba2014f <unknown>
+#7 0x5596fb9fa1b3 <unknown>
+#8 0x5596fb9c659b <unknown>
+#9 0x5596fb9c7971 <unknown>
+#10 0x5596fbea822b <unknown>
+#11 0x5596fbeabf79 <unknown>
+#12 0x5596fbe8f309 <unknown>
+#13 0x5596fbeacb28 <unknown>
+#14 0x5596fbe73bef <unknown>
+#15 0x5596fbed00e8 <unknown>
+#16 0x5596fbed02c6 <unknown>
+#17 0x5596fbee2036 <unknown>
+#18 0x7f020ae969cb <unknown>
+#19 0x7f020af1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754789172.png
+ERROR:root:[ERRO] Empreendedores Digitais | Message: 
+Stacktrace:
+#0 0x5596fbee305a <unknown>
+#1 0x5596fb982a70 <unknown>
+#2 0x5596fb9d4907 <unknown>
+#3 0x5596fb9d4b01 <unknown>
+#4 0x5596fba22d54 <unknown>
+#5 0x5596fb9fa40d <unknown>
+#6 0x5596fba2014f <unknown>
+#7 0x5596fb9fa1b3 <unknown>
+#8 0x5596fb9c659b <unknown>
+#9 0x5596fb9c7971 <unknown>
+#10 0x5596fbea822b <unknown>
+#11 0x5596fbeabf79 <unknown>
+#12 0x5596fbe8f309 <unknown>
+#13 0x5596fbeacb28 <unknown>
+#14 0x5596fbe73bef <unknown>
+#15 0x5596fbed00e8 <unknown>
+#16 0x5596fbed02c6 <unknown>
+#17 0x5596fbee2036 <unknown>
+#18 0x7f020ae969cb <unknown>
+#19 0x7f020af1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754789217.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Vida Fitness & Saúde BR | Message: 
+Stacktrace:
+#0 0x561f7ca4905a <unknown>
+#1 0x561f7c4e8a70 <unknown>
+#2 0x561f7c53a907 <unknown>
+#3 0x561f7c53ab01 <unknown>
+#4 0x561f7c588d54 <unknown>
+#5 0x561f7c56040d <unknown>
+#6 0x561f7c58614f <unknown>
+#7 0x561f7c5601b3 <unknown>
+#8 0x561f7c52c59b <unknown>
+#9 0x561f7c52d971 <unknown>
+#10 0x561f7ca0e22b <unknown>
+#11 0x561f7ca11f79 <unknown>
+#12 0x561f7c9f5309 <unknown>
+#13 0x561f7ca12b28 <unknown>
+#14 0x561f7c9d9bef <unknown>
+#15 0x561f7ca360e8 <unknown>
+#16 0x561f7ca362c6 <unknown>
+#17 0x561f7ca48036 <unknown>
+#18 0x7f24270969cb <unknown>
+#19 0x7f242711aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754789290.png
+ERROR:root:[ERRO] Curiosidades e Mistérios | Message: 
+Stacktrace:
+#0 0x561f7ca4905a <unknown>
+#1 0x561f7c4e8a70 <unknown>
+#2 0x561f7c53a907 <unknown>
+#3 0x561f7c53ab01 <unknown>
+#4 0x561f7c588d54 <unknown>
+#5 0x561f7c56040d <unknown>
+#6 0x561f7c58614f <unknown>
+#7 0x561f7c5601b3 <unknown>
+#8 0x561f7c52c59b <unknown>
+#9 0x561f7c52d971 <unknown>
+#10 0x561f7ca0e22b <unknown>
+#11 0x561f7ca11f79 <unknown>
+#12 0x561f7c9f5309 <unknown>
+#13 0x561f7ca12b28 <unknown>
+#14 0x561f7c9d9bef <unknown>
+#15 0x561f7ca360e8 <unknown>
+#16 0x561f7ca362c6 <unknown>
+#17 0x561f7ca48036 <unknown>
+#18 0x7f24270969cb <unknown>
+#19 0x7f242711aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754789332.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Programadores Brasil | Message: 
+Stacktrace:
+#0 0x55fb1234105a <unknown>
+#1 0x55fb11de0a70 <unknown>
+#2 0x55fb11e32907 <unknown>
+#3 0x55fb11e32b01 <unknown>
+#4 0x55fb11e80d54 <unknown>
+#5 0x55fb11e5840d <unknown>
+#6 0x55fb11e7e14f <unknown>
+#7 0x55fb11e581b3 <unknown>
+#8 0x55fb11e2459b <unknown>
+#9 0x55fb11e25971 <unknown>
+#10 0x55fb1230622b <unknown>
+#11 0x55fb12309f79 <unknown>
+#12 0x55fb122ed309 <unknown>
+#13 0x55fb1230ab28 <unknown>
+#14 0x55fb122d1bef <unknown>
+#15 0x55fb1232e0e8 <unknown>
+#16 0x55fb1232e2c6 <unknown>
+#17 0x55fb12340036 <unknown>
+#18 0x7f6f9ba969cb <unknown>
+#19 0x7f6f9bb1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754789412.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Só Vendas Diretas | Message: 
+Stacktrace:
+#0 0x564f435ad05a <unknown>
+#1 0x564f4304ca70 <unknown>
+#2 0x564f4309e907 <unknown>
+#3 0x564f4309eb01 <unknown>
+#4 0x564f430ecd54 <unknown>
+#5 0x564f430c440d <unknown>
+#6 0x564f430ea14f <unknown>
+#7 0x564f430c41b3 <unknown>
+#8 0x564f4309059b <unknown>
+#9 0x564f43091971 <unknown>
+#10 0x564f4357222b <unknown>
+#11 0x564f43575f79 <unknown>
+#12 0x564f43559309 <unknown>
+#13 0x564f43576b28 <unknown>
+#14 0x564f4353dbef <unknown>
+#15 0x564f4359a0e8 <unknown>
+#16 0x564f4359a2c6 <unknown>
+#17 0x564f435ac036 <unknown>
+#18 0x7ff094c969cb <unknown>
+#19 0x7ff094d1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754789524.png
+ERROR:root:[ERRO] Devs Iniciantes & Experts | Message: 
+Stacktrace:
+#0 0x564f435ad05a <unknown>
+#1 0x564f4304ca70 <unknown>
+#2 0x564f4309e907 <unknown>
+#3 0x564f4309eb01 <unknown>
+#4 0x564f430ecd54 <unknown>
+#5 0x564f430c440d <unknown>
+#6 0x564f430ea14f <unknown>
+#7 0x564f430c41b3 <unknown>
+#8 0x564f4309059b <unknown>
+#9 0x564f43091971 <unknown>
+#10 0x564f4357222b <unknown>
+#11 0x564f43575f79 <unknown>
+#12 0x564f43559309 <unknown>
+#13 0x564f43576b28 <unknown>
+#14 0x564f4353dbef <unknown>
+#15 0x564f4359a0e8 <unknown>
+#16 0x564f4359a2c6 <unknown>
+#17 0x564f435ac036 <unknown>
+#18 0x7ff094c969cb <unknown>
+#19 0x7ff094d1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754789568.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Marketplace Nacional | Message: 
+Stacktrace:
+#0 0x55728726605a <unknown>
+#1 0x557286d05a70 <unknown>
+#2 0x557286d57907 <unknown>
+#3 0x557286d57b01 <unknown>
+#4 0x557286da5d54 <unknown>
+#5 0x557286d7d40d <unknown>
+#6 0x557286da314f <unknown>
+#7 0x557286d7d1b3 <unknown>
+#8 0x557286d4959b <unknown>
+#9 0x557286d4a971 <unknown>
+#10 0x55728722b22b <unknown>
+#11 0x55728722ef79 <unknown>
+#12 0x557287212309 <unknown>
+#13 0x55728722fb28 <unknown>
+#14 0x5572871f6bef <unknown>
+#15 0x5572872530e8 <unknown>
+#16 0x5572872532c6 <unknown>
+#17 0x557287265036 <unknown>
+#18 0x7fce4c8969cb <unknown>
+#19 0x7fce4c91aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754789703.png
+ERROR:root:[ERRO] Notícias URGENTE 24H | Message: 
+Stacktrace:
+#0 0x55728726605a <unknown>
+#1 0x557286d05a70 <unknown>
+#2 0x557286d57907 <unknown>
+#3 0x557286d57b01 <unknown>
+#4 0x557286da5d54 <unknown>
+#5 0x557286d7d40d <unknown>
+#6 0x557286da314f <unknown>
+#7 0x557286d7d1b3 <unknown>
+#8 0x557286d4959b <unknown>
+#9 0x557286d4a971 <unknown>
+#10 0x55728722b22b <unknown>
+#11 0x55728722ef79 <unknown>
+#12 0x557287212309 <unknown>
+#13 0x55728722fb28 <unknown>
+#14 0x5572871f6bef <unknown>
+#15 0x5572872530e8 <unknown>
+#16 0x5572872532c6 <unknown>
+#17 0x557287265036 <unknown>
+#18 0x7fce4c8969cb <unknown>
+#19 0x7fce4c91aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754789745.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Vendas e Trocas Brasil | Message: 
+Stacktrace:
+#0 0x55866b04905a <unknown>
+#1 0x55866aae8a70 <unknown>
+#2 0x55866ab3a907 <unknown>
+#3 0x55866ab3ab01 <unknown>
+#4 0x55866ab88d54 <unknown>
+#5 0x55866ab6040d <unknown>
+#6 0x55866ab8614f <unknown>
+#7 0x55866ab601b3 <unknown>
+#8 0x55866ab2c59b <unknown>
+#9 0x55866ab2d971 <unknown>
+#10 0x55866b00e22b <unknown>
+#11 0x55866b011f79 <unknown>
+#12 0x55866aff5309 <unknown>
+#13 0x55866b012b28 <unknown>
+#14 0x55866afd9bef <unknown>
+#15 0x55866b0360e8 <unknown>
+#16 0x55866b0362c6 <unknown>
+#17 0x55866b048036 <unknown>
+#18 0x7fe3962969cb <unknown>
+#19 0x7fe39631aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754791364.png
+ERROR:root:[ERRO] Gamers BR - CS, Valorant, LoL | Message: 
+Stacktrace:
+#0 0x55866b04905a <unknown>
+#1 0x55866aae8a70 <unknown>
+#2 0x55866ab3a907 <unknown>
+#3 0x55866ab3ab01 <unknown>
+#4 0x55866ab88d54 <unknown>
+#5 0x55866ab6040d <unknown>
+#6 0x55866ab8614f <unknown>
+#7 0x55866ab601b3 <unknown>
+#8 0x55866ab2c59b <unknown>
+#9 0x55866ab2d971 <unknown>
+#10 0x55866b00e22b <unknown>
+#11 0x55866b011f79 <unknown>
+#12 0x55866aff5309 <unknown>
+#13 0x55866b012b28 <unknown>
+#14 0x55866afd9bef <unknown>
+#15 0x55866b0360e8 <unknown>
+#16 0x55866b0362c6 <unknown>
+#17 0x55866b048036 <unknown>
+#18 0x7fe3962969cb <unknown>
+#19 0x7fe39631aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754791410.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Comunidade Free Fire 2025 | Message: 
+Stacktrace:
+#0 0x56145ea8505a <unknown>
+#1 0x56145e524a70 <unknown>
+#2 0x56145e576907 <unknown>
+#3 0x56145e576b01 <unknown>
+#4 0x56145e5c4d54 <unknown>
+#5 0x56145e59c40d <unknown>
+#6 0x56145e5c214f <unknown>
+#7 0x56145e59c1b3 <unknown>
+#8 0x56145e56859b <unknown>
+#9 0x56145e569971 <unknown>
+#10 0x56145ea4a22b <unknown>
+#11 0x56145ea4df79 <unknown>
+#12 0x56145ea31309 <unknown>
+#13 0x56145ea4eb28 <unknown>
+#14 0x56145ea15bef <unknown>
+#15 0x56145ea720e8 <unknown>
+#16 0x56145ea722c6 <unknown>
+#17 0x56145ea84036 <unknown>
+#18 0x7fcfd1e969cb <unknown>
+#19 0x7fcfd1f1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754793917.png
+ERROR:root:[ERRO] Engaja+ Brasil | Message: 
+Stacktrace:
+#0 0x56145ea8505a <unknown>
+#1 0x56145e524a70 <unknown>
+#2 0x56145e576907 <unknown>
+#3 0x56145e576b01 <unknown>
+#4 0x56145e5c4d54 <unknown>
+#5 0x56145e59c40d <unknown>
+#6 0x56145e5c214f <unknown>
+#7 0x56145e59c1b3 <unknown>
+#8 0x56145e56859b <unknown>
+#9 0x56145e569971 <unknown>
+#10 0x56145ea4a22b <unknown>
+#11 0x56145ea4df79 <unknown>
+#12 0x56145ea31309 <unknown>
+#13 0x56145ea4eb28 <unknown>
+#14 0x56145ea15bef <unknown>
+#15 0x56145ea720e8 <unknown>
+#16 0x56145ea722c6 <unknown>
+#17 0x56145ea84036 <unknown>
+#18 0x7fcfd1e969cb <unknown>
+#19 0x7fcfd1f1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754793967.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Zueira Nerd e Geek | Message: 
+Stacktrace:
+#0 0x5604dfd2405a <unknown>
+#1 0x5604df7c3a70 <unknown>
+#2 0x5604df815907 <unknown>
+#3 0x5604df815b01 <unknown>
+#4 0x5604df863d54 <unknown>
+#5 0x5604df83b40d <unknown>
+#6 0x5604df86114f <unknown>
+#7 0x5604df83b1b3 <unknown>
+#8 0x5604df80759b <unknown>
+#9 0x5604df808971 <unknown>
+#10 0x5604dfce922b <unknown>
+#11 0x5604dfcecf79 <unknown>
+#12 0x5604dfcd0309 <unknown>
+#13 0x5604dfcedb28 <unknown>
+#14 0x5604dfcb4bef <unknown>
+#15 0x5604dfd110e8 <unknown>
+#16 0x5604dfd112c6 <unknown>
+#17 0x5604dfd23036 <unknown>
+#18 0x7fcc108969cb <unknown>
+#19 0x7fcc1091aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754993880.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Memes Proibidos BR | Message: 
+Stacktrace:
+#0 0x55592e9c005a <unknown>
+#1 0x55592e45fa70 <unknown>
+#2 0x55592e4b1907 <unknown>
+#3 0x55592e4b1b01 <unknown>
+#4 0x55592e4ffd54 <unknown>
+#5 0x55592e4d740d <unknown>
+#6 0x55592e4fd14f <unknown>
+#7 0x55592e4d71b3 <unknown>
+#8 0x55592e4a359b <unknown>
+#9 0x55592e4a4971 <unknown>
+#10 0x55592e98522b <unknown>
+#11 0x55592e988f79 <unknown>
+#12 0x55592e96c309 <unknown>
+#13 0x55592e989b28 <unknown>
+#14 0x55592e950bef <unknown>
+#15 0x55592e9ad0e8 <unknown>
+#16 0x55592e9ad2c6 <unknown>
+#17 0x55592e9bf036 <unknown>
+#18 0x7f81786969cb <unknown>
+#19 0x7f817871aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754994027.png
+ERROR:root:[ERRO] Memes Proibidos BR | Message: 
+Stacktrace:
+#0 0x55592e9c005a <unknown>
+#1 0x55592e45fa70 <unknown>
+#2 0x55592e4b1907 <unknown>
+#3 0x55592e4b1b01 <unknown>
+#4 0x55592e4ffd54 <unknown>
+#5 0x55592e4d740d <unknown>
+#6 0x55592e4fd14f <unknown>
+#7 0x55592e4d71b3 <unknown>
+#8 0x55592e4a359b <unknown>
+#9 0x55592e4a4971 <unknown>
+#10 0x55592e98522b <unknown>
+#11 0x55592e988f79 <unknown>
+#12 0x55592e96c309 <unknown>
+#13 0x55592e989b28 <unknown>
+#14 0x55592e950bef <unknown>
+#15 0x55592e9ad0e8 <unknown>
+#16 0x55592e9ad2c6 <unknown>
+#17 0x55592e9bf036 <unknown>
+#18 0x7f81786969cb <unknown>
+#19 0x7f817871aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754994070.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Linux Distro Brasil | Message: 
+Stacktrace:
+#0 0x5645fd0d105a <unknown>
+#1 0x5645fcb70a70 <unknown>
+#2 0x5645fcbc2907 <unknown>
+#3 0x5645fcbc2b01 <unknown>
+#4 0x5645fcc10d54 <unknown>
+#5 0x5645fcbe840d <unknown>
+#6 0x5645fcc0e14f <unknown>
+#7 0x5645fcbe81b3 <unknown>
+#8 0x5645fcbb459b <unknown>
+#9 0x5645fcbb5971 <unknown>
+#10 0x5645fd09622b <unknown>
+#11 0x5645fd099f79 <unknown>
+#12 0x5645fd07d309 <unknown>
+#13 0x5645fd09ab28 <unknown>
+#14 0x5645fd061bef <unknown>
+#15 0x5645fd0be0e8 <unknown>
+#16 0x5645fd0be2c6 <unknown>
+#17 0x5645fd0d0036 <unknown>
+#18 0x7fb617a969cb <unknown>
+#19 0x7fb617b1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754994277.png
+ERROR:root:[ERRO] Debate Polêmico Brasil | Message: 
+Stacktrace:
+#0 0x5645fd0d105a <unknown>
+#1 0x5645fcb70a70 <unknown>
+#2 0x5645fcbc2907 <unknown>
+#3 0x5645fcbc2b01 <unknown>
+#4 0x5645fcc10d54 <unknown>
+#5 0x5645fcbe840d <unknown>
+#6 0x5645fcc0e14f <unknown>
+#7 0x5645fcbe81b3 <unknown>
+#8 0x5645fcbb459b <unknown>
+#9 0x5645fcbb5971 <unknown>
+#10 0x5645fd09622b <unknown>
+#11 0x5645fd099f79 <unknown>
+#12 0x5645fd07d309 <unknown>
+#13 0x5645fd09ab28 <unknown>
+#14 0x5645fd061bef <unknown>
+#15 0x5645fd0be0e8 <unknown>
+#16 0x5645fd0be2c6 <unknown>
+#17 0x5645fd0d0036 <unknown>
+#18 0x7fb617a969cb <unknown>
+#19 0x7fb617b1aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1754994320.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Comunidade Free Fire 2025 | Message: 
+Stacktrace:
+#0 0x5635399e601a <unknown>
+#1 0x563539485a70 <unknown>
+#2 0x5635394d7907 <unknown>
+#3 0x5635394d7b01 <unknown>
+#4 0x563539525d54 <unknown>
+#5 0x5635394fd40d <unknown>
+#6 0x56353952314f <unknown>
+#7 0x5635394fd1b3 <unknown>
+#8 0x5635394c959b <unknown>
+#9 0x5635394ca971 <unknown>
+#10 0x5635399ab1eb <unknown>
+#11 0x5635399aef39 <unknown>
+#12 0x5635399922c9 <unknown>
+#13 0x5635399afae8 <unknown>
+#14 0x563539976baf <unknown>
+#15 0x5635399d30a8 <unknown>
+#16 0x5635399d3286 <unknown>
+#17 0x5635399e4ff6 <unknown>
+#18 0x7f27dd0969cb <unknown>
+#19 0x7f27dd11aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1755052632.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Steam Jogos Baratos | Message: 
+Stacktrace:
+#0 0x5648859cb01a <unknown>
+#1 0x56488546aa70 <unknown>
+#2 0x5648854bc907 <unknown>
+#3 0x5648854bcb01 <unknown>
+#4 0x56488550ad54 <unknown>
+#5 0x5648854e240d <unknown>
+#6 0x56488550814f <unknown>
+#7 0x5648854e21b3 <unknown>
+#8 0x5648854ae59b <unknown>
+#9 0x5648854af971 <unknown>
+#10 0x5648859901eb <unknown>
+#11 0x564885993f39 <unknown>
+#12 0x5648859772c9 <unknown>
+#13 0x564885994ae8 <unknown>
+#14 0x56488595bbaf <unknown>
+#15 0x5648859b80a8 <unknown>
+#16 0x5648859b8286 <unknown>
+#17 0x5648859c9ff6 <unknown>
+#18 0x7fbd308969cb <unknown>
+#19 0x7fbd3091aa4c <unknown>
+ | Screenshot: erro_criar_grupo_1755129028.png
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Troca de Likes & Comentários | Sessão perdida: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+#0 0x55bf1be4601a <unknown>
+#1 0x55bf1b8e5a70 <unknown>
+#2 0x55bf1b8cc7fe <unknown>
+#3 0x55bf1b8f45c9 <unknown>
+#4 0x55bf1b96587f <unknown>
+#5 0x55bf1b982afc <unknown>
+#6 0x55bf1b95d1b3 <unknown>
+#7 0x55bf1b92959b <unknown>
+#8 0x55bf1b92a971 <unknown>
+#9 0x55bf1be0b1eb <unknown>
+#10 0x55bf1be0ef39 <unknown>
+#11 0x55bf1bdf22c9 <unknown>
+#12 0x55bf1be0fae8 <unknown>
+#13 0x55bf1bdd6baf <unknown>
+#14 0x55bf1be330a8 <unknown>
+#15 0x55bf1be33286 <unknown>
+#16 0x55bf1be44ff6 <unknown>
+#17 0x7f6ee54969cb <unknown>
+#18 0x7f6ee551aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Grupo de Engajamento Instantâneo | Sessão perdida: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+#0 0x5646eda5801a <unknown>
+#1 0x5646ed4f7a70 <unknown>
+#2 0x5646ed4de7fe <unknown>
+#3 0x5646ed5065c9 <unknown>
+#4 0x5646ed57787f <unknown>
+#5 0x5646ed594afc <unknown>
+#6 0x5646ed56f1b3 <unknown>
+#7 0x5646ed53b59b <unknown>
+#8 0x5646ed53c971 <unknown>
+#9 0x5646eda1d1eb <unknown>
+#10 0x5646eda20f39 <unknown>
+#11 0x5646eda042c9 <unknown>
+#12 0x5646eda21ae8 <unknown>
+#13 0x5646ed9e8baf <unknown>
+#14 0x5646eda450a8 <unknown>
+#15 0x5646eda45286 <unknown>
+#16 0x5646eda56ff6 <unknown>
+#17 0x7f9f37a969cb <unknown>
+#18 0x7f9f37b1aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Zueira Nerd e Geek | Sessão perdida: Message: 
+Stacktrace:
+#0 0x55ab777fe01a <unknown>
+#1 0x55ab7729da70 <unknown>
+#2 0x55ab772ef907 <unknown>
+#3 0x55ab772efb01 <unknown>
+#4 0x55ab7733dd54 <unknown>
+#5 0x55ab7731540d <unknown>
+#6 0x55ab7733b14f <unknown>
+#7 0x55ab773151b3 <unknown>
+#8 0x55ab772e159b <unknown>
+#9 0x55ab772e2971 <unknown>
+#10 0x55ab777c31eb <unknown>
+#11 0x55ab777c6f39 <unknown>
+#12 0x55ab777aa2c9 <unknown>
+#13 0x55ab777c7ae8 <unknown>
+#14 0x55ab7778ebaf <unknown>
+#15 0x55ab777eb0a8 <unknown>
+#16 0x55ab777eb286 <unknown>
+#17 0x55ab777fcff6 <unknown>
+#18 0x7feecf0969cb <unknown>
+#19 0x7feecf11aa4c <unknown>
+
+INFO:undetected_chromedriver.patcher:patching driver executable /home/rb/.local/share/undetected_chromedriver/undetected_chromedriver
+ERROR:root:[ERRO] Notícias URGENTE 24H | Sessão perdida: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+#0 0x564bea6e501a <unknown>
+#1 0x564bea184a70 <unknown>
+#2 0x564bea16b7fe <unknown>
+#3 0x564bea1935c9 <unknown>
+#4 0x564bea20487f <unknown>
+#5 0x564bea221afc <unknown>
+#6 0x564bea1fc1b3 <unknown>
+#7 0x564bea1c859b <unknown>
+#8 0x564bea1c9971 <unknown>
+#9 0x564bea6aa1eb <unknown>
+#10 0x564bea6adf39 <unknown>
+#11 0x564bea6912c9 <unknown>
+#12 0x564bea6aeae8 <unknown>
+#13 0x564bea675baf <unknown>
+#14 0x564bea6d20a8 <unknown>
+#15 0x564bea6d2286 <unknown>
+#16 0x564bea6e3ff6 <unknown>
+#17 0x7f6c390969cb <unknown>
+#18 0x7f6c3911aa4c <unknown>
+

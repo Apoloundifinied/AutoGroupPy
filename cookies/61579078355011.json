@@ -1,0 +1,10 @@
+[
+  {"name": "datr", "value": "GkSXaFN9EzdRJELd7xovqBco", "domain": ".facebook.com", "path": "/", "secure": true},
+  {"name": "wd", "value": "1280x720", "domain": ".facebook.com", "path": "/", "secure": true},
+  {"name": "c_user", "value": "61579366314170", "domain": ".facebook.com", "path": "/", "secure": true},
+  {"name": "fr", "value": "1zXZE3R3xoWdbMjVA.AWdNJfeHkpx2EizXRWSl-_KSf83NilgFxv48_xOdIZqNKJ6B1gg.Bol0Qa..AAA.0.0.Bol0RH.AWcTSSZxhPAsjl7Emm_Im-kyL6E", "domain": ".facebook.com", "path": "/", "secure": true},
+  {"name": "locale", "value": "en_GB", "domain": ".facebook.com", "path": "/", "secure": true},
+  {"name": "sb", "value": "R0SXaL3Sw-6DB2eWElva2XRJ", "domain": ".facebook.com", "path": "/", "secure": true},
+  {"name": "xs", "value": "26%3A4zWUgo4Xu9VaYA%3A2%3A1754743884%3A-1%3A-1", "domain": ".facebook.com", "path": "/", "secure": true},
+  {"name": "test_cookie", "value": "CheckForPermission", "domain": ".facebook.com", "path": "/", "secure": true}
+]

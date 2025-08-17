@@ -85,4 +85,4 @@ python main.py
 ---
 
 ## 📜 Licença
-Este projeto está sob a licença MIT – sinta-se livre para modificar e usar para estudos.
+Este projeto está sob a licença Apoloundifinied and Snnow

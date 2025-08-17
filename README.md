@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Auto Facebook Group Creator</h1>
+<h1 align="center">🚀 Auto cheat facebook</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />

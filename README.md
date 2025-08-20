@@ -58,16 +58,12 @@ python main.py
 ## 📁 Estrutura do Projeto
 ```
 📂 seu-projeto
- ├── main.py          # Script principal
+ ├── main.py          # Script principal with print statements
  ├── cookies.json     # Cookies do Facebook (NÃO compartilhar)
- ├── loading.py 
- ├── mensagem.txt
- ├── config.json
- ├── nomes.txt (vai funcionar no proximo commit
- ├── logs/grupo.log(oque ta acontecendo terminal)
- ├── venv/            # Ambiente virtual
- └── README.md        # Documentação
-```
+ ├── config.json      # Configuration settings
+ ├── mensagem.txt     # Message content
+ ├── nomes.txt        # Names list (to be functional in next commit)
+ └── README.md        # Project documentation
 
 ---
 

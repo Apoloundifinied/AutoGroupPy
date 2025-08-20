@@ -67,6 +67,15 @@ python main.py
 
 ---
 
+## Visão Geral do Projeto
+
+Este script automatiza um processo, mas possui requisitos específicos de interação do usuário. Siga estas etapas:
+
+- **Botão de Privacidade**: O botão de privacidade não clica automaticamente. Você deve clicar manualmente durante a execução.
+- **Ação no Meio do Script**: No meio do script, você precisará clicar manualmente para prosseguir.
+
+Monitore o script e intervenha conforme necessário para uma operação bem-sucedida.
+
 ## ⚠️ Avisos
 - **Não** compartilhe seu `cookies.json`.
 - O uso desse script pode violar os termos de serviço do Facebook.

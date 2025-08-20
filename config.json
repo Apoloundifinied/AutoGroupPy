@@ -1,6 +1,6 @@
 {
   "grupos_por_conta": 1,
-  "delay_entre_grupos": [20, 25],
-  "delay_entre_contas": [20, 25],
+  "delay_entre_grupos": [20, 30],
+  "delay_entre_contas": [20, 30],
   "usar_cookies": false
 }

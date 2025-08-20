@@ -1,0 +1,11 @@
+ola, entao seguinte depois de voce instalar tudo certinho instalar as dependencias 
+voce vai rodar python menukonsole.py 
+entao seguinte 
+deve aparecer um menu pra voce esse menu tem 4 opçao
+a de editar as config.json (funcionando) a de editar os cookies(funcionando) e a de iniciar o script
+e "q" pra sair 
+entao o script vai usar os cookies para logar na conta desejada des de que ela nao seja de naturalidade arabica ou (sabe qualquer pais esquisito ai que a meta 
+tem o leyout diferente) entao ele vai criar o grupo quando por o nome automatico, voce vai clicar na opçao de definir privacidade e vai deixa na desejada (aconselho publico) entao 
+ele vai cria r e funcionar normalmente 
+
+version: 0.5.0

@@ -12,8 +12,8 @@ from selenium.common.exceptions import InvalidSessionIdException, TimeoutExcepti
 # === CONFIGURAÇÕES ===
 CONFIG = json.load(open("config.json"))
 
-if "delay_entre_grupsos" not in CONFIG:
-    CONFIG["delay_entre_grupsos"] = [2, 5]
+if "delay_entre_grupos" not in CONFIG:  # corrigido nome da chave
+    CONFIG["delay_entre_grupos"] = [2, 5]
 
 logging.basicConfig(filename="logs/grupos.log", level=logging.INFO)
 
@@ -101,9 +101,16 @@ def criar_grupo(driver, nome):
 
     # Esperar carregar a página do grupo criado
     try:
-        WebDriverWait(driver, 15).until(EC.url_contains("facebook.com/groups"))
+        WebDriverWait(driver, 20).until(EC.url_contains("facebook.com/groups/"))
         group_url = driver.current_url
+        # Corrigir caso caia em /about ou /create
+        if "/about" in group_url or "/create" in group_url:
+            group_url = group_url.split("?")[0].replace("/about", "").replace("/create", "")
+            driver.get(group_url)
+
         group_id = group_url.split("/")[-2]
+        print(f"✅ Grupo criado: {group_url}")
+
     except TimeoutException:
         group_url = driver.current_url
         group_id = None
@@ -114,7 +121,6 @@ def criar_grupo(driver, nome):
 
 def adicionar_foto(driver, path_img):
     try:
-        
         driver.get(driver.current_url + "/about")
         time.sleep(3)
         botao_foto = WebDriverWait(driver, 10).until(
@@ -140,7 +146,7 @@ def postar_mensagem(driver, msg):
         campo.click()
         campo.send_keys(msg)
         time.sleep(1)
-        campo.send_keys(u'\ue007')
+        campo.send_keys(u'\ue007')  # Enter
         time.sleep(2)
     except Exception as e:
         logging.warning(f"[POST] Falha ao postar mensagem: {e}")
@@ -153,7 +159,7 @@ def main():
     with open(MENSAGEM_FILE) as f:
         mensagem = f.read().strip()
 
-    fotos = list(FOTOS_DIR.glob("*.jpg"))
+    fotos = list(FOTOS_DIR.glob("group.jpg"))
 
     if not nomes:
         print("[X] Arquivo de nomes vazio.")
@@ -193,7 +199,7 @@ def main():
                 logging.error(f"[ERRO] {nome_grupo} | {e} | Screenshot: {screenshot_path}")
                 print(f"[X] Falha ao criar grupo: {e}. Screenshot salva em {screenshot_path}")
 
-            delay(CONFIG["delay_entre_grupsos"])
+            delay(CONFIG["delay_entre_grupos"])
 
     finally:
         try:

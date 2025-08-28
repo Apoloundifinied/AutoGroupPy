@@ -452,3 +452,60 @@ Stacktrace:
 #19 0x7fe9c951aa0c <unknown>
 
 INFO:root:[SUCESSO] Grupo: Engajamento Real BR | https://www.facebook.com/groups/create/
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+WARNING:root:[IMG] Falha ao adicionar imagem: 'NoneType' object has no attribute 'is_displayed'
+WARNING:root:[POST] Falha ao postar mensagem: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=139.0.7258.155)
+Stacktrace:
+	GetHandleVerifier [0x0xbca8a3+63283]
+	GetHandleVerifier [0x0xbca8e4+63348]
+	(No symbol) [0x0xa03e43]
+	(No symbol) [0x0x9e2c49]
+	(No symbol) [0x0xa77b0e]
+	(No symbol) [0x0xa91ff9]
+	(No symbol) [0x0xa71216]
+	(No symbol) [0x0xa40855]
+	(No symbol) [0x0xa416f4]
+	GetHandleVerifier [0x0xe3bb43+2623955]
+	GetHandleVerifier [0x0xe36daa+2604090]
+	GetHandleVerifier [0x0xbf069a+218410]
+	GetHandleVerifier [0x0xbe0ed8+154984]
+	GetHandleVerifier [0x0xbe742d+180925]
+	GetHandleVerifier [0x0xbd22b8+94536]
+	GetHandleVerifier [0x0xbd2442+94930]
+	GetHandleVerifier [0x0xbbd5ea+9338]
+	BaseThreadInitThunk [0x0x75c8fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x778a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x778a827e+238]
+
+INFO:root:[SUCESSO] Grupo: Roblox Brasil Oficial | https://www.facebook.com/groups/create/
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+WARNING:root:[IMG] Falha ao adicionar imagem: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x126a8a3+63283]
+	GetHandleVerifier [0x0x126a8e4+63348]
+	(No symbol) [0x0x10a3e43]
+	(No symbol) [0x0x10ec8de]
+	(No symbol) [0x0x10ecc7b]
+	(No symbol) [0x0x1134ef2]
+	(No symbol) [0x0x1111464]
+	(No symbol) [0x0x113271a]
+	(No symbol) [0x0x1111216]
+	(No symbol) [0x0x10e0855]
+	(No symbol) [0x0x10e16f4]
+	GetHandleVerifier [0x0x14dbb43+2623955]
+	GetHandleVerifier [0x0x14d6daa+2604090]
+	GetHandleVerifier [0x0x129069a+218410]
+	GetHandleVerifier [0x0x1280ed8+154984]
+	GetHandleVerifier [0x0x128742d+180925]
+	GetHandleVerifier [0x0x12722b8+94536]
+	GetHandleVerifier [0x0x1272442+94930]
+	GetHandleVerifier [0x0x125d5ea+9338]
+	BaseThreadInitThunk [0x0x75c8fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x778a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x778a827e+238]
+
+INFO:root:[SUCESSO] Grupo: Marketplace Nacional | https://www.facebook.com/groups/

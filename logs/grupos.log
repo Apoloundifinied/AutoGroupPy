@@ -453,6 +453,7 @@ Stacktrace:
 
 INFO:root:[SUCESSO] Grupo: Engajamento Real BR | https://www.facebook.com/groups/create/
 INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+<<<<<<< HEAD
 INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
 INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
 WARNING:root:[IMG] Falha ao adicionar imagem: 'NoneType' object has no attribute 'is_displayed'
@@ -509,3 +510,113 @@ Stacktrace:
 	RtlGetAppContainerNamedObjectPath [0x0x778a827e+238]
 
 INFO:root:[SUCESSO] Grupo: Marketplace Nacional | https://www.facebook.com/groups/
+=======
+WARNING:root:[IMG] Falha ao adicionar imagem: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.155); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x2aa8a3+63283]
+	GetHandleVerifier [0x0x2aa8e4+63348]
+	(No symbol) [0x0xe3e43]
+	(No symbol) [0x0xd3790]
+	(No symbol) [0x0xf1602]
+	(No symbol) [0x0x157cdc]
+	(No symbol) [0x0x171ff9]
+	(No symbol) [0x0x151216]
+	(No symbol) [0x0x120855]
+	(No symbol) [0x0x1216f4]
+	GetHandleVerifier [0x0x51bb43+2623955]
+	GetHandleVerifier [0x0x516daa+2604090]
+	GetHandleVerifier [0x0x2d069a+218410]
+	GetHandleVerifier [0x0x2c0ed8+154984]
+	GetHandleVerifier [0x0x2c742d+180925]
+	GetHandleVerifier [0x0x2b22b8+94536]
+	GetHandleVerifier [0x0x2b2442+94930]
+	GetHandleVerifier [0x0x29d5ea+9338]
+	BaseThreadInitThunk [0x0x74fffcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x771d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x771d827e+238]
+	(No symbol) [0x0]
+
+WARNING:root:[POST] Falha ao postar mensagem: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x2aa8a3+63283]
+	GetHandleVerifier [0x0x2aa8e4+63348]
+	(No symbol) [0x0xe3ca0]
+	(No symbol) [0x0x11fb48]
+	(No symbol) [0x0x1512d6]
+	(No symbol) [0x0x14ceb5]
+	(No symbol) [0x0x14c436]
+	(No symbol) [0x0xb5755]
+	(No symbol) [0x0xb5cae]
+	(No symbol) [0x0xb613d]
+	GetHandleVerifier [0x0x51bb43+2623955]
+	GetHandleVerifier [0x0x516daa+2604090]
+	GetHandleVerifier [0x0x2d069a+218410]
+	GetHandleVerifier [0x0x2c0ed8+154984]
+	GetHandleVerifier [0x0x2c742d+180925]
+	(No symbol) [0x0xb5420]
+	(No symbol) [0x0xb4c36]
+	GetHandleVerifier [0x0x6568fc+3913612]
+	BaseThreadInitThunk [0x0x74fffcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x771d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x771d827e+238]
+	(No symbol) [0x0]
+
+INFO:root:[SUCESSO] Grupo: Grupo de Engajamento Instantâneo | https://www.facebook.com/groups/create/
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+WARNING:root:[IMG] Falha ao adicionar imagem: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x76a8a3+63283]
+	GetHandleVerifier [0x0x76a8e4+63348]
+	(No symbol) [0x0x5a3e43]
+	(No symbol) [0x0x5ec8de]
+	(No symbol) [0x0x5ecc7b]
+	(No symbol) [0x0x634ef2]
+	(No symbol) [0x0x611464]
+	(No symbol) [0x0x63271a]
+	(No symbol) [0x0x611216]
+	(No symbol) [0x0x5e0855]
+	(No symbol) [0x0x5e16f4]
+	GetHandleVerifier [0x0x9dbb43+2623955]
+	GetHandleVerifier [0x0x9d6daa+2604090]
+	GetHandleVerifier [0x0x79069a+218410]
+	GetHandleVerifier [0x0x780ed8+154984]
+	GetHandleVerifier [0x0x78742d+180925]
+	GetHandleVerifier [0x0x7722b8+94536]
+	GetHandleVerifier [0x0x772442+94930]
+	GetHandleVerifier [0x0x75d5ea+9338]
+	BaseThreadInitThunk [0x0x74fffcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x771d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x771d827e+238]
+
+INFO:root:[SUCESSO] Grupo: Roblox Brasil Oficial | https://www.facebook.com/groups/
+2025-08-31 11:42:52 [INFO] patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-08-31 11:43:48 [WARNING] [IMG] Falha ao adicionar imagem: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x75a8a3+63283]
+	GetHandleVerifier [0x0x75a8e4+63348]
+	(No symbol) [0x0x593e43]
+	(No symbol) [0x0x5dc8de]
+	(No symbol) [0x0x5dcc7b]
+	(No symbol) [0x0x624ef2]
+	(No symbol) [0x0x601464]
+	(No symbol) [0x0x62271a]
+	(No symbol) [0x0x601216]
+	(No symbol) [0x0x5d0855]
+	(No symbol) [0x0x5d16f4]
+	GetHandleVerifier [0x0x9cbb43+2623955]
+	GetHandleVerifier [0x0x9c6daa+2604090]
+	GetHandleVerifier [0x0x78069a+218410]
+	GetHandleVerifier [0x0x770ed8+154984]
+	GetHandleVerifier [0x0x77742d+180925]
+	GetHandleVerifier [0x0x7622b8+94536]
+	GetHandleVerifier [0x0x762442+94930]
+	GetHandleVerifier [0x0x74d5ea+9338]
+	BaseThreadInitThunk [0x0x74fffcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x771d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x771d827e+238]
+
+2025-08-31 11:44:10 [INFO] [SUCESSO] Grupo: Gamers BR - CS, Valorant, LoL | https://www.facebook.com/groups/
+2025-08-31 14:16:01 [INFO] patching driver executable C:\Users\yamii\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+>>>>>>> 544f728 (security tweaks)

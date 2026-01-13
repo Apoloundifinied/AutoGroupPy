@@ -33,7 +33,7 @@ Feito para **ganhar tempo** e evitar processos repetitivos.
 
 ```mermaid
 graph TD;
-    A[Início do Script] --> B[Carregar Cookies do Facebook];
+    A[Início do Script] --> B[Carregar Cookies do Face];
     B --> C[Login Automático];
     C --> D[Ir para Página de Criação de Grupos];
     D --> E[Fim - Usuário Pronto para Criar o Grupo];
